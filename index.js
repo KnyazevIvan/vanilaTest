@@ -62,7 +62,7 @@ element.ondragstart = function () {
 
 setInterval(() => {
   setRandomColor()
-}, 2000);
+}, 100);
 
 
 
